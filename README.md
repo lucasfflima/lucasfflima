@@ -1,7 +1,7 @@
 ⚡⚡⚡ Welcome to my void ⚡⚡⚡
 
 
-Hekireki Issen
+不可解なものでできている
 
 
 - 
