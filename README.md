@@ -1,3 +1,5 @@
+![capaLucas](https://media.licdn.com/dms/image/v2/D4D16AQFjiYFgaVlZDw/profile-displaybackgroundimage-shrink_350_1400/B4DZZlBNx6GcAY-/0/1745451540141?e=1750896000&v=beta&t=kszyR9AWKCvPOn5LF_nBvZFtKyU95RmzXFYpS4cZGTg)
+
 Hi!
 
 👋 Olá! Sou Desenvolvedor Full Stack com experiência em aplicações web usando PHP, Node.js, Laravel, Vue.js, Nuxt.js, JavaScript, HTML e CSS.
